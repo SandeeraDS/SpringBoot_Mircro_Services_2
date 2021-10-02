@@ -1,0 +1,1 @@
+Hystrix stream - host:8083/actuator/hystrix.stream

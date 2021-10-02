@@ -1,0 +1,1 @@
+Hystrix dashboard url = host::8084/hystrix
